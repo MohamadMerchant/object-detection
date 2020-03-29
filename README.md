@@ -3,7 +3,7 @@
 ### Steps to run on Images, Videos or Live stream
 
 
-- **`git clone https://github.com/MohamadMerchant/object-detection.git`**
+- `git clone https://github.com/MohamadMerchant/object-detection.git`
 
 - *cd object-detection*
 
