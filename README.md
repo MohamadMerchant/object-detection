@@ -5,25 +5,24 @@
 
 - **`git clone https://github.com/MohamadMerchant/object-detection.git`**
 
-- *cd yolo-object-detection*
+- *cd object-detection*
 
-- 	*`pip3 install -r requirements.txt`*
+- `pip3 install -r requirements.txt`
 
 - Download the pre-trained YOLO v3 weights file from this [link](https://pjreddie.com/media/files/yolov3.weights) 
-  or you can directly download to the current directory in terminal using
+  or directly download to the current directory in terminal using
  
  	`wget https://pjreddie.com/media/files/yolov3.weights`
 
 
-
 **To detect objects on image**
 
-`*python3 detect.py --image IMAGE_PATH*`
+`python3 detect.py --image IMAGE_PATH`
 
 **To detect objects on video file**
 
-`*python3 detect.py --video VIDEO_PATH*`
+`python3 detect.py --video VIDEO_PATH`
 
 **To detect objects on a live stream**
 
-`*python3 detect.py*`
+`python3 detect.py`
