@@ -1,6 +1,6 @@
-# YOLO OBJECT DETECTION ON IMAGES, VIDEOS and LIVE STREAM
+## YOLO OBJECT DETECTION ON IMAGES, VIDEOS and LIVE STREAM
 
-## Steps to run on Images, Videos or Live stream
+### Steps to run on Images, Videos or Live stream
 
 **git clone https://github.com/MohamadMerchant/object-detection.git**
 
